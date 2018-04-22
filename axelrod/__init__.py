@@ -22,3 +22,4 @@ from .result_set import ResultSet
 from .ecosystem import Ecosystem
 from .fingerprint import AshlockFingerprint, TransitiveFingerprint
 
+from .ultimatum import *
